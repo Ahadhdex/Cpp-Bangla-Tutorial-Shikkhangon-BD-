@@ -8,4 +8,9 @@ int main(){
     cout<<"Multiplication of num1 and num2 = "<<num1 * num2<<endl;
 
     return 0;
-}
+}.  int y = 5;
+    int z = 9;
+    int sum = x + z
+    cout << sum;
+    
+    
